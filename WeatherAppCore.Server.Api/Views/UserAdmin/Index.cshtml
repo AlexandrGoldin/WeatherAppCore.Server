@@ -1,0 +1,41 @@
+﻿
+@model IEnumerable<PresentationL.Models.UserViewModel>
+
+<h2>Список пользователей</h2>
+<p>
+    @Html.ActionLink("Добавить пользователя", "UserCreate") 
+</p>
+<table>
+    <tr>
+        <th>Id</th>
+        <th>ID Города</th>
+        <th>Город</th>
+        <th>Ключ пользователя</th>
+        <th>Название устройства</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Id)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.UserIdCity)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.UserNameCity)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.UserKey)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.DeviceName)
+    </td>
+    <td>
+        @Html.ActionLink("Редактировать", "UserEditor", new {  userId = item.Id }) |
+        @Html.ActionLink("Удалить", "UserDelete", new { userId = item.UserKey })
+    </td>
+</tr>
+    }
+</table>

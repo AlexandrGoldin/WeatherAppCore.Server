@@ -1,0 +1,11 @@
+C:\Users\Александр\source\repos\WeatherAppCore.Server\BuissnesL\bin\Debug\netcoreapp3.1\BuissnesL.deps.json
+C:\Users\Александр\source\repos\WeatherAppCore.Server\BuissnesL\bin\Debug\netcoreapp3.1\BuissnesL.dll
+C:\Users\Александр\source\repos\WeatherAppCore.Server\BuissnesL\bin\Debug\netcoreapp3.1\BuissnesL.pdb
+C:\Users\Александр\source\repos\WeatherAppCore.Server\BuissnesL\bin\Debug\netcoreapp3.1\DataL.dll
+C:\Users\Александр\source\repos\WeatherAppCore.Server\BuissnesL\bin\Debug\netcoreapp3.1\DataL.pdb
+C:\Users\Александр\source\repos\WeatherAppCore.Server\BuissnesL\obj\Debug\netcoreapp3.1\BuissnesL.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\WeatherAppCore.Server\BuissnesL\obj\Debug\netcoreapp3.1\BuissnesL.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\WeatherAppCore.Server\BuissnesL\obj\Debug\netcoreapp3.1\BuissnesL.AssemblyInfo.cs
+C:\Users\Александр\source\repos\WeatherAppCore.Server\BuissnesL\obj\Debug\netcoreapp3.1\BuissnesL.csproj.CopyComplete
+C:\Users\Александр\source\repos\WeatherAppCore.Server\BuissnesL\obj\Debug\netcoreapp3.1\BuissnesL.dll
+C:\Users\Александр\source\repos\WeatherAppCore.Server\BuissnesL\obj\Debug\netcoreapp3.1\BuissnesL.pdb

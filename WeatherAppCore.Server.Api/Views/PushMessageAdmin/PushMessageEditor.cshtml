@@ -1,0 +1,22 @@
+﻿
+@using PresentationL.Models;
+@model PushMessageEditModel;
+
+<title>PushMessageEditor</title>
+
+<h3>Редактировать сообщение</h3>
+
+<form asp-action="PushMessageEditor" asp-controller="PushMessageAdmin" asp-route-Id="@Model.Id">
+
+    <div class="form-group">
+        <label asp-for="MesCooling" class="control-label">Сообщение о похолодании</label>
+        <input type="text" asp-for="MesCooling" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="MesWarming" class="control-label">Сообщение о потеплении</label>
+        <input type="text" asp-for="MesWarming" class="form-control" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Отправить" class="btn btn-default" />
+    </div>
+</form>

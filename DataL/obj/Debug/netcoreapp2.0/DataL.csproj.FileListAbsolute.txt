@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\WeatherAppCore.Server\DataL\bin\Debug\netcoreapp2.0\DataL.deps.json
+C:\Users\Александр\source\repos\WeatherAppCore.Server\DataL\bin\Debug\netcoreapp2.0\DataL.dll
+C:\Users\Александр\source\repos\WeatherAppCore.Server\DataL\obj\Debug\netcoreapp2.0\DataL.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\WeatherAppCore.Server\DataL\obj\Debug\netcoreapp2.0\DataL.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\WeatherAppCore.Server\DataL\obj\Debug\netcoreapp2.0\DataL.AssemblyInfo.cs
+C:\Users\Александр\source\repos\WeatherAppCore.Server\DataL\bin\Debug\netcoreapp2.0\DataL.pdb
+C:\Users\Александр\source\repos\WeatherAppCore.Server\DataL\obj\Debug\netcoreapp2.0\DataL.dll
+C:\Users\Александр\source\repos\WeatherAppCore.Server\DataL\obj\Debug\netcoreapp2.0\DataL.pdb
+C:\Users\Александр\source\repos\WeatherAppCore.Server\DataL\bin\Debug\netcoreapp2.0\DataL.runtimeconfig.json
+C:\Users\Александр\source\repos\WeatherAppCore.Server\DataL\bin\Debug\netcoreapp2.0\DataL.runtimeconfig.dev.json

@@ -1,0 +1,13 @@
+C:\Users\Александр\source\repos\WeatherAppCore.Server\PresentationL\bin\Debug\netcoreapp2.2\PresentationL.deps.json
+C:\Users\Александр\source\repos\WeatherAppCore.Server\PresentationL\bin\Debug\netcoreapp2.2\PresentationL.dll
+C:\Users\Александр\source\repos\WeatherAppCore.Server\PresentationL\bin\Debug\netcoreapp2.2\PresentationL.pdb
+C:\Users\Александр\source\repos\WeatherAppCore.Server\PresentationL\bin\Debug\netcoreapp2.2\BuissnesL.dll
+C:\Users\Александр\source\repos\WeatherAppCore.Server\PresentationL\bin\Debug\netcoreapp2.2\DataL.dll
+C:\Users\Александр\source\repos\WeatherAppCore.Server\PresentationL\bin\Debug\netcoreapp2.2\BuissnesL.pdb
+C:\Users\Александр\source\repos\WeatherAppCore.Server\PresentationL\bin\Debug\netcoreapp2.2\DataL.pdb
+C:\Users\Александр\source\repos\WeatherAppCore.Server\PresentationL\obj\Debug\netcoreapp2.2\PresentationL.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\WeatherAppCore.Server\PresentationL\obj\Debug\netcoreapp2.2\PresentationL.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\WeatherAppCore.Server\PresentationL\obj\Debug\netcoreapp2.2\PresentationL.AssemblyInfo.cs
+C:\Users\Александр\source\repos\WeatherAppCore.Server\PresentationL\obj\Debug\netcoreapp2.2\PresentationL.csproj.CopyComplete
+C:\Users\Александр\source\repos\WeatherAppCore.Server\PresentationL\obj\Debug\netcoreapp2.2\PresentationL.dll
+C:\Users\Александр\source\repos\WeatherAppCore.Server\PresentationL\obj\Debug\netcoreapp2.2\PresentationL.pdb

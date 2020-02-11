@@ -1,0 +1,36 @@
+﻿
+@model IEnumerable<PresentationL.Models.PushMessageViewModel>
+
+<h2>Сообщения пользователю</h2>
+<p>
+    @Html.ActionLink("Добавить сообщение", "PushMessageCreate")
+</p>
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Сообщение о похолодании</th>       
+        <th>Сообщение о потеплении</th>
+       
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MesCooling)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MesWarming)
+            </td>
+            
+            <td>
+                @Html.ActionLink("Редактировать", "PushMessageEditor", new { pushMessageId = item.Id }) |
+                @Html.ActionLink("Удалить", "PushMessageDelete", new { pushMessageId = item.Id })
+            </td>
+        </tr>
+    }
+</table>
+
